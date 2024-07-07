@@ -1,7 +1,7 @@
 # Google-Translator
 This project aims to create a language translator using Python and the Google Translate API. Users can input text in one language, and the program will translate it to the desired target language. The project includes a graphical user interface (GUI) built with tkinter.
 
-Installation
+#Installation
 
 
 Before running the project, make sure you have the following dependencies installed:
@@ -18,7 +18,7 @@ pip install SpeechRecognition
 gTTS (Google Text-to-Speech): To convert translated text to speech (optional):
 pip install gtts
 
-Usage
+#Usage
 
 
 Run the Python script (translator.py or any other filename you choose).
@@ -28,8 +28,7 @@ Speak the sentence, and the program will translate it from English (or any other
 The translated text will be saved as an audio file named captured_voice.mp3.
 
 
-Example Usage
-
+#Example Usage
 
 
 Initiate the translation:
@@ -44,7 +43,7 @@ Phase to be Translated: "What are you doing?"
 The translated audio will be played automatically.
 
 
-Notes
+#Notes
 
 
 
@@ -52,7 +51,7 @@ You can customize the source and target languages by modifying the from_lang and
 Feel free to enhance the GUI or add more features as needed.
 
 
-Credits
+#Credits
 
 
 
