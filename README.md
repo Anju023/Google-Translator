@@ -25,9 +25,7 @@ After saying “hello,” the program will listen for a sentence you want to tra
 Speak the sentence, and the program will translate it from English (or any other source language) to Hindi (or any other target language).
 The translated text will be saved as an audio file named captured_voice.mp3.
 
-
-#Example Usage
-
+# Example Usage:
 
 Initiate the translation:
 
@@ -40,17 +38,11 @@ Phase to be Translated: "What are you doing?"
 
 The translated audio will be played automatically.
 
-
-#Notes
-
-
+# Note:
 
 You can customize the source and target languages by modifying the from_lang and to_lang variables in the code.
 Feel free to enhance the GUI or add more features as needed.
 
-
-#Credits
-
-
+# Credit:
 
 This project uses the Googletrans library for language translation.
