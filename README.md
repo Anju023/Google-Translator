@@ -1,8 +1,7 @@
 # Google-Translator
 This project aims to create a language translator using Python and the Google Translate API. Users can input text in one language, and the program will translate it to the desired target language. The project includes a graphical user interface (GUI) built with tkinter.
 
-#Installation
-
+# Installation:
 
 Before running the project, make sure you have the following dependencies installed:
 
