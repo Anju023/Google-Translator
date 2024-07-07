@@ -17,8 +17,7 @@ pip install SpeechRecognition
 gTTS (Google Text-to-Speech): To convert translated text to speech (optional):
 pip install gtts
 
-#Usage
-
+# Usage: 
 
 Run the Python script (translator.py or any other filename you choose).
 The program will prompt you to say “hello” to initiate the translation process.
